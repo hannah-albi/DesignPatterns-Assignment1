@@ -7,14 +7,5 @@ The class ReadUsageConsumption is used for reading the contents of the text file
 The class Test is used for testing the program and ensuring the returned results match with the expected output.
 The results should be as follows:
 
-----------------------------------------------------------------------
-The power usage of the bulbs is represented by watts (W)
-The battery consumption of the locks is represented by watt-hours (Wh)
-----------------------------------------------------------------------
+<img width="847" height="299" alt="image" src="https://github.com/user-attachments/assets/0a0ce6f2-1346-42d5-8485-2d829c91b74d" />
 
-Testing in progress...
-
-The power usage for a BrandA bulb is: 40 W
-The battery consumption for a BrandB lock is: 12/80 Wh
-
-Testing complete...
